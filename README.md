@@ -5,13 +5,13 @@ Don't be sly! Try to solve the challenges on your own before comparing with my s
 # Index
 1. [leviathan 0](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-0)
 2. [leviathan 0 -> 1](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-0---1)
-3. leviathan 1 -> 2
-4. leviathan 2 -> 3
-5. leviathan 3 -> 4
-6. leviathan 4 -> 5
-7. leviathan 5 -> 6
-8. leviathan 6 -> 7
-9. leviathan 7 -> 8
+3. [leviathan 1 -> 2](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-1---2)
+4. [leviathan 2 -> 3](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-2---3)
+5. [leviathan 3 -> 4](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-3---4)
+6. [leviathan 4 -> 5](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-4---5)
+7. [leviathan 5 -> 6](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-5---6)
+8. [leviathan 6 -> 7](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-6---7)
+9. [leviathan 7 -> 8](https://github.com/AlbertoSpinella/over-the-wire-leviathan#leviathan-7---8)
 
 ## leviathan 0
 Run the command:
